@@ -1,2 +1,2 @@
 # AI-Portfolio
-Projects on data annotation, prompt creation, and data sourcin
+"Projects demonstrating data annotation, prompt creation, data validation, sourcing, and synthetic data.
